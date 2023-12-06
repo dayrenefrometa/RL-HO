@@ -11,7 +11,7 @@ The code is divided into two folders:
    Note:
     * The first script executed will produce a dataset.csv file, and the other scripts will append the data to the end of the existing dataset.csv file.
     * The produced dataset.csv file is an input for the main script implementing the RL-HO algorithm.
-3. RL-HO contains the main script implementing the RL-HO algorithm.
+3. RL-HO_Algorithm contains the main script implementing the RL-HO algorithm.
 
    Note:
     * For a better understanding of the code, please, refer to our paper.
