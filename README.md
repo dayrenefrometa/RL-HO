@@ -15,7 +15,13 @@ The code is divided into two folders:
 
    Note:
     * For a better understanding of the code, please, refer to our paper.
+  
+# References
+
+"A prediction-model-assisted reinforcement learning algorithm for handover decision-making in hybrid LiFi and WiFi networks", D Frómeta Fonseca, B Genovés Guzmán, GL Mertena, R Bian, H Haas, and D Giustiniano, Journal of Optical Communications and Networking, 2023.
 
 # License
 
 This code is released under GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
+
+
