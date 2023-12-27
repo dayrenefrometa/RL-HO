@@ -14,7 +14,7 @@ The code is divided into two folders:
 3. RL-HO_Algorithm contains the main script implementing the RL-HO algorithm.
 
    Note:
-    * For a better understanding of the code, please, refer to our paper.
+    * For a better understanding of the code, please, refer to our paper: https://dspace.networks.imdea.org/handle/20.500.12761/1772
   
 # References
 
